@@ -1,0 +1,5 @@
+%{
+  "rustler": {:git, "git@bitbucket.org:pixel-media/rustler.git", "c0df53acb88268b96e2e69276404417c32bbff8b", []},
+  "toml": {:hex, :toml, "0.6.1", "e1c3c91c1fc1ed87e7315a5a88e4bd1eeddf3e61dca2b708724a6a2d1a013844", [:mix], [], "hexpm", "d73b447d2605e23fa3bbbf80342e27e7e1bca51733d5e65c026d97c7e1a7cabb"},
+  "wootheex": {:git, "git@bitbucket.org:pixel-media/wootheex.git", "a18dbebecb5256d15cdc0cb50bc3a3cfb278ff68", []},
+}
